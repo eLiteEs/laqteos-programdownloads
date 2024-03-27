@@ -9,3 +9,4 @@ game-snake;game-snake/snake.exe
 prog-lide;prog-lide/lide.exe
 game-tictactoe;game-tictactoe/tictactoe.exe
 game-connectfour;game-connectfour/connectfour.exe
+game-minesweeper;game-minesweeper/minesweeper.exe
